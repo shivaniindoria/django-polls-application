@@ -1,0 +1,1 @@
+web: gunicorn django-polls-application.wsgi
